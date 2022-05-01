@@ -1,3 +1,28 @@
+# v3.4.1 (2022-05)
+- Phonetic definition of service names and programme titles for voice-controlled applications
+- Service name aliases to improve discovery
+- Definition of programme contributors and credits
+- Guidance on using IP bearers carrying playlist files or adaptive streaming
+- Guidance on how to support information for regional and supra-regional services
+
+## new sections
+### 5.14 alias element
+### 5.15 phoneme element
+- elements to aid voice recognition / reproduction functionality
+
+### 7.14 credits element
+### 7.15 credit element
+### 7.16 organization element
+### 7.17 person element
+- elements to allow presenters and contributors to be specified for programmes/programmeEvents
+
+### E.6 Supra-regional and regional services
+- Guidance on the use of supra-regional and regional RDS PI Codes
+
+## amended section
+### 5.11.4 IP-based
+- how to interpret combinations of URI and mimeValue to discover the stream transport method
+
 # v3.3.1 (2020-08)
 - Addition of "geo-fencing" capabilities to streaming bearers
 
