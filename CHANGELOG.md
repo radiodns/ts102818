@@ -1,3 +1,21 @@
+# v3.5.1 (2023-12)
+- creation date for logo objects to improve version control
+- addition of attribute _language_ to define presentation language for services and schedule, programme, programme events and clarification of the use of
+xml:lang in the SPI
+
+## new section
+### 5.16 presentationLanguage
+- defines the presentation language(s) of a service, schedule, programme, programmeEvent
+- the attribute _primary_ is used to define the primary language
+
+## amended sections
+### 5.5 link element
+- addition of _language_ attribute to define the language of the linked content
+
+### 5.8 multimedia element
+- addition of _language_ attribute to define the content language of the multimedia object
+- addition of _creationTime_ attribute to allow for more accurate caching of multimedia objects on the receiver
+
 # v3.4.1 (2022-05)
 - Phonetic definition of service names and programme titles for voice-controlled applications
 - Service name aliases to improve discovery
