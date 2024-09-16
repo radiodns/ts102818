@@ -6,6 +6,10 @@ Client Identification allows the Service Provider/Broadcaster to issue unique Cl
 ### 10.5.5 Client Identification
 The process of providing a Client ID parameter when requesting an SPI document.
 
+### 10.2.2.1 Lookup using the Authoritative FQDN - Introduction
+### 10.2.2.2 Services not supporting client identification
+### 10.2.2.3 Services supporting client identification
+
 # v3.1.1 (2015-01)
 First version with RadioDNS functionality
 
