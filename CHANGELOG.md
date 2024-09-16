@@ -19,7 +19,7 @@ elements to allow presenters and contributors to be specified for programmes/pro
 ### E.6 Supra-regional and regional services
 Guidance on the use of supra-regional and regional RDS PI Codes
 
-## amended section
+## amended sections
 ### 5.11.4 IP-based
 how to interpret combinations of URI and mimeValue to discover the stream transport method
 
