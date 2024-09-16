@@ -23,6 +23,10 @@ Guidance on the use of supra-regional and regional RDS PI Codes
 ### 5.11.4 IP-based
 how to interpret combinations of URI and mimeValue to discover the stream transport method
 
+### 10.2.2.2 Application servers not supporting TLS
+### 10.2.3.4 Application servers supporting TLS
+Change to section headings from "not supporting Client ID" and "supporting Client ID"
+
 # v3.3.1 (2020-08)
 - Addition of "geo-fencing" capabilities to streaming bearers
 
