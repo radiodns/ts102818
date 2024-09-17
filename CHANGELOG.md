@@ -1,5 +1,6 @@
 # v3.2.1 (2019-06)
-Addition of Client Identification to control access to SPI documents.
+- Addition of Client Identification to control access to SPI documents.
+
 Client Identification allows the Service Provider/Broadcaster to issue unique Client IDs to individual users to authenticate their access to SPI documents.
 
 ## new sections
@@ -7,19 +8,20 @@ Client Identification allows the Service Provider/Broadcaster to issue unique Cl
 ### 10.2.2.2 Services not supporting client identification
 ### 10.2.2.3 Services supporting client identification
 ### 10.5.5 Client Identification
-The process of providing a Client ID parameter when requesting an SPI document.
+- The process of providing a Client ID parameter when requesting an SPI document.
 
 # v3.1.1 (2015-01)
-First version with RadioDNS functionality
+- First version with RadioDNS functionality
 
 ## new sections
 ### 5.11 bearer element
-Definition of DAB/DAB+. DRM and IP bearers
+- Definition of DAB/DAB+. DRM and IP bearers
 
 ### 9 Delivery of SPI over DAB/DRM
-Restatement of how to provide SPI using a DAB or DRM data channel
+- Restatement of how to provide SPI using a DAB or DRM data channel
  
 ### 10 Delivery of SPI over IP
-New definition of how to discover and retrieve SPI using RadioDNS lookups over IP
+- New definition of how to discover and retrieve SPI using RadioDNS lookups over IP
+
 
 This version was a substantial re-write from the preceeding version (v1.5.1) so all heading numbers have been changed, and content rearranged.
