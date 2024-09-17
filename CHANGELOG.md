@@ -1,4 +1,4 @@
-# v3.4.5 (2023-12)
+# v3.5.1 (2023-12)
 - creation date for logo objects to improve version control;
 - addition of attribute _language_ to define presentation language for services and schedule, programme, programme events and clarification of the use of
 xml:lang in the SPI
